@@ -1,0 +1,1 @@
+<resources><style name="Theme.RPDryFish" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:statusBarColor">#8B1E1E</item><item name="android:navigationBarColor">#FFF8F0</item></style></resources>
